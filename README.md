@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**WarrenJRamos/WarrenJRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img src="https://github-readme-stats.vercel.app/api?username=warrenjramos&&show_icons=true&title_color=93FFD8&icon_color=548CFF&text_color=CFFFDC&bg_color=7900FF" alt="Warren's stats" />
