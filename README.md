@@ -1,14 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Warren - [Portfolio Website](https://priceless-boyd-14bdec.netlify.app/) 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on honing my web dev skills
+- 🌱 I’m currently learning Docker, Kubernetes, and Node.js
+- ⚡ Fun fact: I love to read manga and manhwa!
 
-<img src="https://github-readme-stats.vercel.app/api?username=warrenjramos&&show_icons=true&title_color=93FFD8&icon_color=548CFF&text_color=CFFFDC&bg_color=7900FF" alt="Warren's stats" />
+### Connect with me:
+
+### Languages and Tools:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=warrenjramos&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrenjramos&langs_count=10" />
+</a>
